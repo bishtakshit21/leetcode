@@ -10,6 +10,7 @@ solved leetcode problems
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/bishtakshit21/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
@@ -23,4 +24,16 @@ solved leetcode problems
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
