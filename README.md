@@ -15,4 +15,12 @@ solved leetcode problems
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/bishtakshit21/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
