@@ -7,6 +7,7 @@ solved leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bishtakshit21/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ solved leetcode problems
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
