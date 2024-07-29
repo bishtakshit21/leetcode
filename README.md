@@ -8,6 +8,7 @@ solved leetcode problems
 | ------- |
 | [0009-palindrome-number](https://github.com/bishtakshit21/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ solved leetcode problems
 | ------- |
 | [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
