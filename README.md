@@ -24,6 +24,7 @@ solved leetcode problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtakshit21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/bishtakshit21/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -45,4 +46,8 @@ solved leetcode problems
 | ------- |
 | [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/bishtakshit21/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtakshit21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
