@@ -25,6 +25,7 @@ solved leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bishtakshit21/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtakshit21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ solved leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bishtakshit21/leetcode/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
