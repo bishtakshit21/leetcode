@@ -26,6 +26,7 @@ solved leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishtakshit21/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/bishtakshit21/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtakshit21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ solved leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bishtakshit21/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
