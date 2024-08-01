@@ -17,6 +17,7 @@ solved leetcode problems
 | [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/bishtakshit21/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/bishtakshit21/leetcode/tree/master/0742-to-lower-case) |
+| [2727-number-of-senior-citizens](https://github.com/bishtakshit21/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## String Matching
 |  |
 | ------- |
@@ -34,6 +35,7 @@ solved leetcode problems
 | [0932-monotonic-array](https://github.com/bishtakshit21/leetcode/tree/master/0932-monotonic-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/bishtakshit21/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/bishtakshit21/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
