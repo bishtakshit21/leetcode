@@ -35,6 +35,7 @@ solved leetcode problems
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/bishtakshit21/leetcode/tree/master/0932-monotonic-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/bishtakshit21/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/bishtakshit21/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/bishtakshit21/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
