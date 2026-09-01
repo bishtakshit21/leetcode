@@ -14,6 +14,7 @@ solved leetcode problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bishtakshit21/leetcode/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/bishtakshit21/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/bishtakshit21/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/bishtakshit21/leetcode/tree/master/0742-to-lower-case) |
@@ -49,6 +50,7 @@ solved leetcode problems
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtakshit21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/bishtakshit21/leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
