@@ -32,6 +32,7 @@ solved leetcode problems
 | [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtakshit21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtakshit21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/bishtakshit21/leetcode/tree/master/0932-monotonic-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishtakshit21/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -46,6 +47,7 @@ solved leetcode problems
 | [0027-remove-element](https://github.com/bishtakshit21/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtakshit21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -68,4 +70,8 @@ solved leetcode problems
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtakshit21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtakshit21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
