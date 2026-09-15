@@ -21,9 +21,6 @@ class Solution {
                 }
             }
         }
-        if(stack.isEmpty()){
-            return true;
-        }else{
-            return false;
-        }}
+        return stack.isEmpty();
+        }
     }
