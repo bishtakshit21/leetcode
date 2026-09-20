@@ -42,6 +42,7 @@ solved leetcode problems
 | [0217-contains-duplicate](https://github.com/bishtakshit21/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/bishtakshit21/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0932-monotonic-array](https://github.com/bishtakshit21/leetcode/tree/master/0932-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishtakshit21/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -143,6 +144,7 @@ solved leetcode problems
 | [0232-implement-queue-using-stacks](https://github.com/bishtakshit21/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bishtakshit21/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bishtakshit21/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,5 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/bishtakshit21/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
