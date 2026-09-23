@@ -43,6 +43,7 @@ solved leetcode problems
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/bishtakshit21/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/bishtakshit21/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0932-monotonic-array](https://github.com/bishtakshit21/leetcode/tree/master/0932-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,6 +147,7 @@ solved leetcode problems
 | [0234-palindrome-linked-list](https://github.com/bishtakshit21/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bishtakshit21/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/bishtakshit21/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -162,4 +164,8 @@ solved leetcode problems
 | [0496-next-greater-element-i](https://github.com/bishtakshit21/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/bishtakshit21/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
