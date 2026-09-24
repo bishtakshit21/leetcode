@@ -113,6 +113,7 @@ solved leetcode problems
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/bishtakshit21/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/bishtakshit21/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@ solved leetcode problems
 | ------- | ------- |
 | [0155-min-stack](https://github.com/bishtakshit21/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/bishtakshit21/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/bishtakshit21/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +170,8 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/bishtakshit21/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
