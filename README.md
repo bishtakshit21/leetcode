@@ -49,6 +49,7 @@ solved leetcode problems
 | [0977-squares-of-a-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishtakshit21/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/bishtakshit21/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bishtakshit21/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/bishtakshit21/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -114,6 +115,7 @@ solved leetcode problems
 | [0232-implement-queue-using-stacks](https://github.com/bishtakshit21/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/bishtakshit21/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ solved leetcode problems
 | [0503-next-greater-element-ii](https://github.com/bishtakshit21/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
