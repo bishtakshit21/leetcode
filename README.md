@@ -52,6 +52,7 @@ solved leetcode problems
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bishtakshit21/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/bishtakshit21/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2727-number-of-senior-citizens](https://github.com/bishtakshit21/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ solved leetcode problems
 | [0387-first-unique-character-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/bishtakshit21/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/bishtakshit21/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@ solved leetcode problems
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/bishtakshit21/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
