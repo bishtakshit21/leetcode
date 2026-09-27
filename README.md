@@ -46,6 +46,7 @@ solved leetcode problems
 | [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0932-monotonic-array](https://github.com/bishtakshit21/leetcode/tree/master/0932-monotonic-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishtakshit21/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/bishtakshit21/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -95,6 +96,7 @@ solved leetcode problems
 | [0217-contains-duplicate](https://github.com/bishtakshit21/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bishtakshit21/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishtakshit21/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/bishtakshit21/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -116,6 +118,7 @@ solved leetcode problems
 | [0232-implement-queue-using-stacks](https://github.com/bishtakshit21/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/bishtakshit21/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtakshit21/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Counting
@@ -175,6 +178,7 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtakshit21/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Data Stream
