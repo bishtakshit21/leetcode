@@ -21,6 +21,7 @@ solved leetcode problems
 | [0387-first-unique-character-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/bishtakshit21/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0649-dota2-senate](https://github.com/bishtakshit21/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0742-to-lower-case](https://github.com/bishtakshit21/leetcode/tree/master/0742-to-lower-case) |
 | [2727-number-of-senior-citizens](https://github.com/bishtakshit21/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## String Matching
@@ -112,11 +113,13 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bishtakshit21/leetcode/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/bishtakshit21/leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/bishtakshit21/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/bishtakshit21/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/bishtakshit21/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
