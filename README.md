@@ -8,6 +8,7 @@ solved leetcode problems
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/bishtakshit21/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bishtakshit21/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ solved leetcode problems
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishtakshit21/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/bishtakshit21/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bishtakshit21/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bishtakshit21/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/bishtakshit21/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtakshit21/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -123,6 +125,7 @@ solved leetcode problems
 | [0933-number-of-recent-calls](https://github.com/bishtakshit21/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bishtakshit21/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtakshit21/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -144,6 +147,7 @@ solved leetcode problems
 | [0021-merge-two-sorted-lists](https://github.com/bishtakshit21/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bishtakshit21/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bishtakshit21/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bishtakshit21/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +187,7 @@ solved leetcode problems
 | [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishtakshit21/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bishtakshit21/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtakshit21/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
