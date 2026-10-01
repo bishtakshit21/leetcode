@@ -41,6 +41,7 @@ solved leetcode problems
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtakshit21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtakshit21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/bishtakshit21/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/bishtakshit21/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/bishtakshit21/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -83,6 +84,7 @@ solved leetcode problems
 | [0001-two-sum](https://github.com/bishtakshit21/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/bishtakshit21/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishtakshit21/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/bishtakshit21/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bishtakshit21/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -97,6 +99,7 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/bishtakshit21/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bishtakshit21/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
@@ -133,6 +136,7 @@ solved leetcode problems
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -199,9 +203,14 @@ solved leetcode problems
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishtakshit21/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishtakshit21/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
