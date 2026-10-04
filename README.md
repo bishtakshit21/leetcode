@@ -48,6 +48,7 @@ solved leetcode problems
 | [0503-next-greater-element-ii](https://github.com/bishtakshit21/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/bishtakshit21/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/bishtakshit21/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishtakshit21/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0932-monotonic-array](https://github.com/bishtakshit21/leetcode/tree/master/0932-monotonic-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -103,6 +104,7 @@ solved leetcode problems
 | [0217-contains-duplicate](https://github.com/bishtakshit21/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bishtakshit21/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/bishtakshit21/leetcode/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bishtakshit21/leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishtakshit21/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -204,6 +206,7 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishtakshit21/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -213,4 +216,24 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
