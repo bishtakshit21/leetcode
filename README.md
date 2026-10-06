@@ -38,6 +38,7 @@ solved leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bishtakshit21/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/bishtakshit21/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/bishtakshit21/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtakshit21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtakshit21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -69,6 +70,7 @@ solved leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bishtakshit21/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishtakshit21/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/bishtakshit21/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bishtakshit21/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bishtakshit21/leetcode/tree/master/0141-linked-list-cycle) |
@@ -99,6 +101,7 @@ solved leetcode problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/bishtakshit21/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bishtakshit21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bishtakshit21/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/bishtakshit21/leetcode/tree/master/0217-contains-duplicate) |
@@ -236,4 +239,12 @@ solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/bishtakshit21/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/bishtakshit21/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/bishtakshit21/leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
